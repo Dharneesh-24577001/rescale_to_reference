@@ -1,6 +1,6 @@
 **INSTRUCTIONS**
 
-1.Visit the site "https://figshare.com/s/727f8d920a1b8415f09a" to obtain the shuf.a and shuf.b files using curl.
+1.Visit the site "https://figshare.com/s/727f8d920a1b8415f09a" to obtain the shuf.a and shuf.b bed-files using curl.
 
 2.  A combined bed was created from shuf.a.bed.gz and shuf.b.bed.gz, to get the frequency of the query and for further calculations.
 
